@@ -1,7 +1,6 @@
 filas = int(input("Insertar número de filas de la matriz: "))  # Declaración de variables
 columnas = int(input("Insertar número de columnas de la matriz: "))
 matriz = []
-lista = []
 n = int(input("Insertar fila de la que deseamos sumar sus elementos: "))
 suma = 0
 
